@@ -1,0 +1,55 @@
+#btn{
+    display: flex;
+    justify-content:space-around;
+    width: auto;
+    height: 60%;
+    margin-top: 250px;
+
+}
+
+#orange{
+    color: white;
+    background-color: orange;
+    font-size: larger;
+    border-radius: 60px solid black;
+    border-radius: 220px;
+    height: 50px;
+    
+}
+
+#red{
+    color: white;
+    background-color: red;
+    font-size: larger;
+    border-radius: 60px solid black;
+    border-radius: 220px;
+    height: 50px;
+    
+}
+
+#grey{
+    color: white;
+    background-color: grey;
+    font-size: larger;
+    border-radius: 60px solid black;
+    border-radius: 220px;
+    height: 50px;
+    
+}
+#yellow{
+    color: black;
+    background-color: yellow;
+    font-size: larger;
+    border-radius: 60px solid black;
+    border-radius: 220px;
+    height: 50px;
+    
+}
+#green{
+    color: white;
+    background-color: green;
+    font-size: larger;
+    border-radius: 60px solid black;
+    border-radius: 220px;
+    height: 50px;
+}
